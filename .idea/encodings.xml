@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/appUi/app_class01.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class1/demo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class1/demo1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class1/demo2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class1/excel_demo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class1/excute_demo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class2/demo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class3/demo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pageObjectDemo/pageObject/login_page.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
